@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.5547798
+color:
+  saturation: 0.31203
+  lightness: 0.6740065
+  brandStrength: 0
+  brandColors:
+    - '#020E1F'
+    - '#FDFBE4'
+    - '#D7A476'
+    - '#394A42'
+    - '#AC6D4C'
+  rhythmicContrast: 0.7427498
+name: marcspaeth
